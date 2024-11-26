@@ -1,3 +1,10 @@
+"""
+  - Copyright 2024 Ruri Gokou (Kuroneko-yousenpai)
+  - Email: Kuronekoyousenpai@gmail.com
+  - Telegram: https://t.me/Kuroneko_yousenpai
+  - VK: https://vk.com/kuroneko_yousenpai
+"""
+
 import asyncio
 import json
 from aiohttp import web
