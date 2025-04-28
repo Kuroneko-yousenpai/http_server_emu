@@ -1,5 +1,5 @@
 """
-  - Copyright 2024 Ruri Gokou (Kuroneko-yousenpai)
+  - Copyright 2024 Mika Hyakuya (Kuroneko-yousenpai)
   - Email: Kuronekoyousenpai@gmail.com
   - Telegram: https://t.me/Kuroneko_yousenpai
   - VK: https://vk.com/kuroneko_yousenpai
